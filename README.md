@@ -9,8 +9,6 @@ As second, we just analyzed the information of the Plays, in this case we got a 
 
 <img width="355" alt="Screen Shot 2022-10-02 at 1 53 45 PM" src="https://user-images.githubusercontent.com/113856917/193471126-0d772daa-e6b6-42fb-b8b4-d7956f2f4826.png">
 
-Since this is my first-time analyzing charts, for me, the most difficult challenge was to know what information is relevant and how could it help to our study purpose. Even it wasn’t my first-time using Excel, I used formulas I didn’t knew, so getting used to them and their structure was another challenge, not so complicated though. 
-
 
 ## Results
 
